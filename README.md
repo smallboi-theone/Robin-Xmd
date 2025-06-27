@@ -5,7 +5,7 @@
 Developed by **Iconic Tech** (engineering dev)
 
 ## Connect With Us
-[![WhatsApp Channel](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://whatsapp.com/channel/0029VaX2Js9RZAVtDgMYj0r)  
+[![WhatsApp Channel](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r)  
 Join our WhatsApp channel for updates
 
 **Made in Zimbabwe** 🇿🇼
